@@ -1,3 +1,7 @@
+> ⚠️ Mirror repository  
+> Primary development happens on Gitea:  
+> https://git.hzwnrw.my/Clinic/clinic-patient-service
+
 # Patient Service (clinic-patient-service):
 
 Responsibilities:
